@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-size: 15px;
+    background-color: hsl(0, 0%, 98%);
+} 
+
+div {
+    background-color: white;
+    border-top: solid 5px;    
+    width: 25%;
+    margin: auto;    
+}
+
+.red {
+    border-color:hsl(0, 78%, 62%);
+}
+
+.orange {
+    border-color: hsl(34, 97%, 64%);
+}
+
+.cyan {
+    border-color:  hsl(180, 62%, 55%);
+}
+
+.blue {
+    border-color:hsl(212, 86%, 64%);
+}
+
+img {
+    /* position: absolute;
+    right: 0;     */
+}
